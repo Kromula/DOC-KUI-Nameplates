@@ -9,4 +9,18 @@ This repository contains profiles you can import
 - KUI Nameplate Profile
 - KUI Target Helper Season profiles
 
+  ## Importing KUI Profile
+  1) In this GitHub open the docui.txt file
+  2) Copy the string
+  3) Ingame type /knp import
+  4) Paste copied string into the popup window
+  5) When done, profile should be avaialable in KUI
+ 
+  ## Importing Target Helper Profile
+  1) In this GitHub open the Season profile file
+  2) Copy the string
+  3) Ingame open Target Helper from your addon menu
+  4) Under the Profile tab, paste the string into the provided box
+  5) Then click Import
+
 Mainted by DOC 
